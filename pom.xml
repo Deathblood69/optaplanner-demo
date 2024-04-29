@@ -16,6 +16,7 @@
   <name>OptaPlanner Quickstarts</name>
 
   <modules>
+    <module>call-center</module>
     <module>vehicle-routing</module>
   </modules>
 
